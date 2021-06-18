@@ -1,0 +1,43 @@
+{
+    "foods": [{
+            "name": "Satay",
+            "description": "Satay or Sate is a Southeast Asian dish of seasoned, skewered and grilled meat, served with a sauceBandung"
+        },
+        {
+            "name": "Chicken Katsu",
+            "description": "Chicken Katsu also known as panko chicken, or tori katsu (torikatsu (鶏カツ)) is a Japanese dish of fried chicken made with panko bread crumbs which is also popular in Australia, Hawaii, London, California, and other areas of the world."
+        },
+        {
+            "name": "Ayam Taliwang",
+            "description": "Ayam Taliwang is made with chicken (preferably free range), which is cut and cleaned prior to grilling. Once it has been grilled halfway, it is removed from the grill and tenderized with a pestle. It is then dipped in cooking oil; after several seconds in the oil, it is put in a spicy sauce of garlic, chili, and shrimp paste. It is then fried or grilled to order."
+        },
+        {
+            "name": "Steak",
+            "description": "A steak is a meat generally sliced across the muscle fibers, potentially including a bone. It is normally grilled, though can also be pan-fried."
+        },
+        {
+            "name": "Bubur ayam",
+            "description": "It is rice congee with shredded chicken meat served with some condiments, such as chopped scallion, crispy fried shallot, celery, tongcay (preserved salted vegetables), fried soybean, Chinese crullers (youtiao, known as cakwe in Indonesia), and both salty and sweet soy sauce, and sometimes topped with yellow chicken broth and kerupuk (Indonesian-style crackers)."
+        },
+        {
+            "name": "Coto makassar",
+            "description": " Indonesian traditional soup originating from Makassar, South Sulawesi. It is a variant of soto traditional beef and offal stew with seasoned broth made from ground peanuts and spices."
+        },
+        {
+            "name": "Nasi goreng",
+            "description": "Nasi goreng has long been considered a national dish of Indonesia. in 2018, it is officially recognized by the Indonesian government as one of the country's six national dishes. A ubiquitous meal throughout Indonesia, particularly for breakfast, it can be enjoyed in simple versions from a tin plate at a roadside food stall, eaten on porcelain in restaurants, or collected from the buffet tables of dinner parties in urban cities like Jakarta."
+        },
+        {
+            "name": "Bubur ayam",
+            "description": "It is rice congee with shredded chicken meat served with some condiments, such as chopped scallion, crispy fried shallot, celery, tongcay (preserved salted vegetables), fried soybean, Chinese crullers (youtiao, known as cakwe in Indonesia), and both salty and sweet soy sauce, and sometimes topped with yellow chicken broth and kerupuk (Indonesian-style crackers)."
+        },
+        {
+            "name": "Coto makassar",
+            "description": " Indonesian traditional soup originating from Makassar, South Sulawesi. It is a variant of soto traditional beef and offal stew with seasoned broth made from ground peanuts and spices."
+        },
+        {
+            "name": "Nasi goreng",
+            "description": "Nasi goreng has long been considered a national dish of Indonesia. in 2018, it is officially recognized by the Indonesian government as one of the country's six national dishes. A ubiquitous meal throughout Indonesia, particularly for breakfast, it can be enjoyed in simple versions from a tin plate at a roadside food stall, eaten on porcelain in restaurants, or collected from the buffet tables of dinner parties in urban cities like Jakarta."
+        }
+    ]
+}
